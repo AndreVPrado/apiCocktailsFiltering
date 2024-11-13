@@ -1,0 +1,426 @@
+{
+  "bebidas": [
+    {
+      "id": "12345",
+      "nome": "Mojito",
+      "imagem": "https://colherdeouro.com.br/wp-content/uploads/2024/01/Drink-Mojito-1200x1200.jpg",
+      "ingredientes": [
+        "Rum",
+        "Hortelã",
+        "Limão",
+        "Açúcar",
+        "Água com gás"
+      ]
+    },
+    {
+      "id": "67890",
+      "nome": "Caipirinha",
+      "imagem": "https://s2-vogue.glbimg.com/WczBQBSU3GC7vbMQvM2DiT8Sitw=/0x0:1500x1875/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_5dfbcf92c1a84b20a5da5024d398ff2f/internal_photos/bs/2022/s/e/pA6e55SWWUK4ixidaLpw/gettyimages-1246697541.gif",
+      "ingredientes": [
+        "Cachaça",
+        "Limão",
+        "Açúcar"
+      ]
+    },
+    {
+      "id": "12346",
+      "nome": "Cosmopolitan",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Cosmopolitan_%285076906532%29.jpg",
+      "ingredientes": [
+        "Vodka",
+        "Licor de Laranja",
+        "Suco de cranberry",
+        "Suco de Limão"
+      ]
+    },
+    {
+      "id": "67840",
+      "nome": "Pina Colada",
+      "imagem": "https://www.onceuponachef.com/images/2023/07/pina-coladas.jpg",
+      "ingredientes": [
+        "Rum",
+        "Suco de abacaxi",
+        "Leite de coco",
+        "Gelo"
+      ]
+    },
+    {
+      "id": "16746",
+      "nome": "Margarita",
+      "imagem": "https://www.foodfaithfitness.com/wp-content/uploads/2023/07/A_cadillac-margarita-cocktail-Featured_3.jpg",
+      "ingredientes": [
+        "Tequila",
+        "Suco de Limão",
+        "Triple sec",
+        "Sal"
+      ]
+    },
+    {
+      "id": "16784",
+      "nome": "Bloody Mary",
+      "imagem": "https://mapadacachaca.com.br/wp-content/uploads/2021/01/Bloody-Mary-optimized.jpg",
+      "ingredientes": [
+        "Vodka",
+        "Suco de tomate",
+        "Suco de limão",
+        "Molho inglês",
+        "Pimenta",
+        "Sal",
+        "Aipo"
+      ]
+    },
+    {
+      "id": "50432",
+      "nome": "Negroni",
+      "imagem": "https://maisdrinks.collinsbar.com.br/wp-content/uploads/2020/10/negroni.jpg",
+      "ingredientes": [
+        "Gin",
+        "Vermute tinto",
+        "Campari"
+      ]
+    },
+    {
+      "id": "32904",
+      "nome": "Espresso Martini",
+      "imagem": "https://assets.delawaretoday.com/2024/02/dt-march-24-espresso-martini-AdobeStock_695077668-696x464.jpg",
+      "ingredientes": [
+        "Vodka",
+        "Licor de Café",
+        "Café Expresso"
+      ]
+    },
+    {
+      "id": "29564",
+      "nome": "Clover Club",
+      "imagem": "https://bartenderstore.com.br/wp-content/uploads/2021/07/Cocktail-Clover-Club-Alterada-scaled-1-1.jpg",
+      "ingredientes": [
+        "Gin",
+        "Vermute Seco",
+        "Suco de Limão",
+        "Xarope de Framboesa"
+      ]
+    },
+    {
+      "id": "57210",
+      "nome": "Rum Punch",
+      "imagem": "https://www.organizedisland.com/wp-content/uploads/2023/07/Bacardi-Rum-Punch-Recipe.jpg",
+      "ingredientes": [
+        "Rum",
+        "Sucos de Frutas Variadas",
+        "Especiarias"
+      ]
+    },
+    {
+      "id": "18502",
+      "nome": "Mai Tai",
+      "imagem": "https://bellyfull.net/wp-content/uploads/2022/05/Mai-Tai-drink-recipe-blog-2.jpg",
+      "ingredientes": [
+        "Rum",
+        "Suco de Limão",
+        "Licor de Amêndoa",
+        "Xarope de Açúcar"
+      ]
+    },
+    {
+      "id": "203485",
+      "nome": "Quentão",
+      "imagem": "https://www.guiadasemana.com.br/contentFiles/image/opt_w1280h720/2023/06/FEA/70583_receita-quentao-cachaca-4.jpg",
+      "ingredientes": [
+        "Cachaça",
+        "Açúcar",
+        "Água",
+        "Gengibre",
+        "Cravo",
+        "Canela",
+        "Limão"
+      ]
+    },
+    {
+      "id": "30806",
+      "nome": "Batida de Maracujá",
+      "imagem": "https://receitasdedelicias.com.br/wp-content/uploads/2023/05/Batida-de-Maracuja-Super-Facil.jpg",
+      "ingredientes": [
+        "Cachaça",
+        "Polpa de Maracujá",
+        "Leite Condensado",
+        "Gelo"
+      ]
+    },
+    {
+      "id": "12645",
+      "nome": "Bee's Knees",
+      "imagem": "https://supermercadobomdemais.com.br/wp-content/uploads/2020/12/Gin-Inteiro.png",
+      "ingredientes": [
+        "Gin",
+        "Suco de Limão",
+        "Mel",
+        "Gelo"
+      ]
+    },
+    {
+      "id": "90356",
+      "nome": "Aviation",
+      "imagem": "https://www.thefooddictator.com/wp-content/uploads/2015/01/aviation.jpg",
+      "ingredientes": [
+        "Gin",
+        "Licor de Maraschino",
+        "Suco de Limão",
+        "Casca de Limão",
+        "Gelo"
+      ]
+    },
+    {
+      "id": "80543",
+      "nome": "Tom Collins",
+      "imagem": "https://assets.epicurious.com/photos/642da48f6f7f88309f457815/1:1/w_4634,h_4634,c_limit/TomCollins_RECIPE_033123_50633.jpg",
+      "ingredientes": [
+        "Gin",
+        "Xarope de Açúcar",
+        "Suco de Limão",
+        "Água com Gás",
+        "Gelo"
+      ]
+    },
+    {
+      "id": "30704",
+      "nome": "Négra Modra",
+      "imagem": "https://amandascookin.com/wp-content/uploads/2020/05/Rum-Punch-cocktail-RC.jpg",
+      "ingredientes": [
+        "Rum",
+        "Café Expresso",
+        "Açúcar",
+        "Gelo"
+      ]
+    },
+    {
+      "id": "50732",
+      "nome": "Moscow Mule",
+      "imagem": "https://www.estadao.com.br/resizer/v2/RDGUROFZXFGGNOCXLCR7FKP3QM.jpg?quality=80&auth=8810cce2b8c8f3690c0241aa1f540688cb77c9310dcfa47679d031234c68b511&width=1200&height=1200&smart=true",
+      "ingredientes": [
+        "Vodka",
+        "Suco de Limão",
+        "Cerveja de Gengibre",
+        "Gelo",
+        "Fatias de Limão e/ou Hortelã"
+      ]
+    },
+    {
+      "id": "60593",
+      "nome": "Sex on the Beach",
+      "imagem": "https://anamariabrogui.com.br/assets/uploads/receitas/fotos/usuario-1714-9963a14027e9d974217c1e051188eedc.jpg",
+      "ingredientes": [
+        "Vodka",
+        "Licor de Pêssego",
+        "Suco de Cranberry",
+        "Suco de Laranja",
+        "Gelo"
+      ]
+    },
+    {
+      "id": "70493",
+      "nome": "Lemon Drop Martini",
+      "imagem": "https://realhousemoms.com/wp-content/uploads/Lemon-Drop-Martini-Easy-Drink-Recipe-IC1-600x900.jpg",
+      "ingredientes": [
+        "Vodka",
+        "Xarope de Açúcar",
+        "Suco de Limão",
+        "Açúcar (para a borda do copo)",
+        "Gelo"
+      ]
+    },
+    {
+      "id": "90512",
+      "nome": "Caipiroska",
+      "imagem": "https://pubimg.band.uol.com.br/files/b8d56875f701473b38da.png",
+      "ingredientes": [
+        "Cachaça",
+        "Limão",
+        "Açúcar",
+        "Gelo"
+      ]
+    },
+    {
+      "id": "38023",
+      "nome": "Rabo-de-Galo",
+      "imagem": "https://www.cnnbrasil.com.br/viagemegastronomia/wp-content/uploads/sites/5/2023/05/rabo-de-galo.jpg?w=1200&h=900&crop=1",
+      "ingredientes": [
+        "Cachaça",
+        "Vermute (tinto ou seco)",
+        "Gelo"
+      ]
+    },
+    {
+      "id": "65082",
+      "nome": "Cachaça Sour",
+      "imagem": "https://cozinharoman.com/2023/06/09/cachaca-sour-especial-junina/cachaca-sour-cozinharoman-pt2-min/?amp",
+      "ingredientes": [
+        "Cachaça",
+        "Suco de Limão",
+        "Xarope de Açúcar",
+        "Clara de Ovo (opcional)",
+        "Gelo"
+      ]
+    },
+    {
+      "id": "40390",
+      "nome": "Ginger Caipirinha",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSegteOdSLp8ZF1rz-SkAtFRrsvhWxOwxOkLw&s",
+      "ingredientes": [
+        "Cachaça",
+        "Limão",
+        "Açúcar",
+        "Gengibre fresco",
+        "Gelo"
+      ]
+    },
+    {
+      "id": "69305",
+      "nome": "Cachaça Tônica",
+      "imagem": "https://tribunademinas.com.br/wp-content/uploads/2018/02/41.jpg",
+      "ingredientes": [
+        "Cachaça",
+        "Limão",
+        "Água Tônica",
+        "Gelo"
+      ]
+    },
+    {
+      "id": "61829",
+      "nome": "Batida de Coco",
+      "imagem": "https://i.ytimg.com/vi/9XBsTfbqJzA/maxresdefault.jpg",
+      "ingredientes": [
+        "Cachaça",
+        "Leite de Coco",
+        "Leite Condensado",
+        "Gelo"
+      ]
+    },
+    {
+      "id": "03912",
+      "nome": "Cuba Libre",
+      "imagem": "https://anamariabrogui.com.br/assets/uploads/receitas/fotos/usuario-2500-4d0d38aa39affe0a72f8fec9d4a435e8.jpg",
+      "ingredientes": [
+        "Rum",
+        "Refrigerante de Cola",
+        "Suco de Limão",
+        "Gelo"
+      ]
+    },
+    {
+      "id": "09354",
+      "nome": "Ramos Gin Fizz",
+      "imagem": "https://www.saveur.com/uploads/2024/02/7LDO4HQAVYENYFQFXIEU3BMFC4_02.webp?auto=webp",
+      "ingredientes": [
+        "Gin",
+        "Suco de lima",
+        "Suco de Limão",
+        "Clara de ovo",
+        "Creme de leite",
+        "Água com gás"
+      ]
+    },
+    {
+      "id": "80320",
+      "nome": "Singapore Sling",
+      "imagem": "https://d34nm4jmyicdxh.cloudfront.net/eyJidWNrZXQiOiJjaHJpc3N5LXR1eGVkby1ubzIiLCJrZXkiOiJyZWNpcGUtc2luZ2Fwb3JlLXNsaW5nLWNvY2t0YWlsLXJlY2lwZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjYwMCwiaGVpZ2h0Ijo2MDAsImZpdCI6ImNvdmVyIn19fQ==",
+      "ingredientes": [
+        "Gin",
+        "Xarope de cereja",
+        "Suco de Limão",
+        "Licor de cereja",
+        "Angostura (opcional)",
+        "Água com gás"
+      ]
+    },
+    {
+      "id": "09407",
+      "nome": "Bramble",
+      "imagem": "https://files.mob-cdn.co.uk/recipes/2023/03/Bramble.jpg",
+      "ingredientes": [
+        "Gin",
+        "Xarope de açúcar",
+        "Suco de Limão",
+        "Licor de amora (ou purê de amora)"
+      ]
+    },
+    {
+      "id": "42859",
+      "nome": "Southside",
+      "imagem": "https://spirits-navigator.com/wp-content/uploads/2020/04/editorialcocktails_2x_0046_southside_gallery3x.png.png",
+      "ingredientes": [
+        "Gin",
+        "Xarope de açúcar",
+        "Suco de Limão",
+        "Folhas de hortelã"
+      ]
+    },
+    {
+      "id": "87902",
+      "nome": "Rum Sour",
+      "imagem": "https://www.acouplecooks.com/wp-content/uploads/2023/11/Rum-Sour-004.jpg",
+      "ingredientes": [
+        "Rum",
+        "Xarope de açúcar",
+        "Suco de Limão",
+        "Clara de ovo (opcional)"
+      ]
+    },
+    {
+      "id": "03841",
+      "nome": "Planter's Punch",
+      "imagem": "https://www.tasteofhome.com/wp-content/uploads/2023/06/Planter-s-Punch_EXPS_FT23_273031_ST_3_09_1.jpg?fit=700%2C1024",
+      "ingredientes": [
+        "Rum",
+        "Xarope de açúcar",
+        "Suco de Limão",
+        "Suco de laranja",
+        "Xarope de grenadine",
+        "Angostura (opcional)",
+        "Gelo"
+      ]
+    },
+    {
+      "id": "10923",
+      "nome": "El Presidente",
+      "imagem": "https://www.telegraph.co.uk/content/dam/recipes/2021/05/26/TELEMMGLPICT000259550449_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?imwidth=680",
+      "ingredientes": [
+        "Rum",
+        "Vermute seco",
+        "Licor de laranja (como Cointreau)",
+        "Xarope de grenadine",
+        "Gelo"
+      ]
+    },
+    {
+      "id": "20530",
+      "nome": "White Russian",
+      "imagem": "https://www.mantitlement.com/wp-content/uploads/2020/03/white-russian-recipe-feature-close.jpg",
+      "ingredientes": [
+        "Vodka",
+        "Licor de café",
+        "Creme de leite"
+      ]
+    },
+    {
+      "id": "60123",
+      "nome": "Vodka Martini",
+      "imagem": "https://i0.wp.com/www.splashoftaste.com/wp-content/uploads/2022/05/dirty-martini-featured.jpg",
+      "ingredientes": [
+        "Vodka",
+        "Vermute seco",
+        "Azeitona para decorar"
+      ]
+    },
+    {
+      "id": "70309",
+      "nome": "Apple Martini",
+      "imagem": "https://hips.hearstapps.com/hmg-prod/images/apple-martini-1631213456.jpg",
+      "ingredientes": [
+        "Vodka",
+        "Licor de maçã verde",
+        "Suco de limão",
+        "Gelo"
+      ]
+    }
+  ]
+}

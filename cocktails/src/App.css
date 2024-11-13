@@ -1,0 +1,35 @@
+#inGeneral{
+    width: fit-content;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+#alinhaTitulo{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.btns{
+    margin: 5px;
+}
+
+#cards{
+    width: 940px;
+    flex-wrap: wrap;
+    justify-content: center;
+    display: flex;
+    gap: 15px;
+}
+
+#carregaBotao{
+    text-align: center;
+}
